@@ -6,7 +6,7 @@
   "keywords": ["eslint", "eslintconfig"],
   "author": "Joe Boyle",
   "files": ["index.js", "README.md"],
-  "devDependencies": {
+  "dependencies": {
     "babel-eslint": "^10.0.1",
     "eslint-config-airbnb-base": "^13.1.0" 
   },
