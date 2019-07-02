@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-helloitsjoe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "@helloitsjoe eslint Config",
   "main": "index.js",
   "keywords": [
@@ -13,7 +13,7 @@
     "README.md"
   ],
   "dependencies": {
-    "eslint-config-airbnb-base": "^13.1.0" 
+    "eslint-config-airbnb-base": "^13.1.0"
   },
   "peerDependencies": {
     "babel-eslint": ">= 10",
