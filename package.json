@@ -18,7 +18,9 @@
   "peerDependencies": {
     "babel-eslint": ">= 10",
     "eslint": ">= 4",
-    "eslint-plugin-import": ">= 2"
+    "eslint-plugin-import": ">= 2",
+    "eslint-plugin-jsx-a11y": ">= 6",
+    "eslint-plugin-react": ">= 7"
   },
   "license": "MIT"
 }
