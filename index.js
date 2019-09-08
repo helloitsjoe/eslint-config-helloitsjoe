@@ -17,6 +17,7 @@ module.exports = {
     'no-prototype-builtins': 'off',
     'react/jsx-filename-extension': 'off',
     'react/destructuring-assignment': 'off',
+    'arrow-body-style': 'off',
     'arrow-parens': ['error', 'as-needed'],
     'comma-dangle': ['error', 'only-multiline'],
   },
