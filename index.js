@@ -18,6 +18,7 @@ module.exports = {
     'react/jsx-filename-extension': 'off',
     'react/destructuring-assignment': 'off',
     'arrow-body-style': 'off',
+    'no-confusing-arrow': 'off',
     'arrow-parens': ['error', 'as-needed'],
     'comma-dangle': ['error', 'only-multiline'],
   },
