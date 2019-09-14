@@ -17,6 +17,7 @@ module.exports = {
     'no-prototype-builtins': 'off',
     'react/jsx-filename-extension': 'off',
     'react/destructuring-assignment': 'off',
+    'react/jsx-props-no-spreading': 'off',
     'arrow-body-style': 'off',
     'no-confusing-arrow': 'off',
     'arrow-parens': ['error', 'as-needed'],
