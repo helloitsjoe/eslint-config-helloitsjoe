@@ -13,14 +13,15 @@
     "README.md"
   ],
   "dependencies": {
-    "eslint-config-airbnb": "^17.1.0"
+    "eslint-config-airbnb": "^18.0.1"
   },
   "peerDependencies": {
     "babel-eslint": ">= 10",
     "eslint": ">= 4",
     "eslint-plugin-import": ">= 2",
     "eslint-plugin-jsx-a11y": ">= 6",
-    "eslint-plugin-react": ">= 7"
+    "eslint-plugin-react": ">= 7",
+    "eslint-plugin-react-hooks": ">= 1"
   },
   "license": "MIT"
 }
