@@ -22,6 +22,7 @@ module.exports = {
     'arrow-body-style': 'off',
     'no-confusing-arrow': 'off',
     'operator-linebreak': 'off',
+    'function-paren-newline': 'off',
     'arrow-parens': ['error', 'as-needed'],
     'comma-dangle': ['error', 'only-multiline'],
   },
