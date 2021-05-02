@@ -15,6 +15,9 @@
   "dependencies": {
     "eslint-config-airbnb": "^18.2.1"
   },
+  "hooks": {
+    "after:bump": "npx auto-changelog -p"
+  },
   "peerDependencies": {
     "babel-eslint": ">= 10",
     "eslint": ">= 4",
