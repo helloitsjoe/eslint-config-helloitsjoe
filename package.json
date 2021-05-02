@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-helloitsjoe",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "@helloitsjoe eslint config",
   "main": "index.js",
   "keywords": [
