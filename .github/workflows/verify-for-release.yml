@@ -1,0 +1,11 @@
+on:
+  push:
+    branches-ignore:
+      - master
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npx helloitsjoe/release-toolkit verify
