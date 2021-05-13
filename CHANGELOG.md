@@ -1,3 +1,9 @@
+## [1.2.15](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v1.2.15) (2021-05-13)
+
+**Chore**
+
+- Test
+
 ## [1.2.14](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v1.2.14) (2021-05-13)
 
 **Chore**
