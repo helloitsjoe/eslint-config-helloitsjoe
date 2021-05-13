@@ -1,8 +1,11 @@
 {
   "name": "eslint-config-helloitsjoe",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "description": "@helloitsjoe eslint config",
   "main": "index.js",
+  "scripts": {
+    "release": "npx helloitsjoe/release-toolkit release"
+  },
   "keywords": [
     "eslint",
     "eslintconfig"
@@ -25,3 +28,4 @@
   },
   "license": "MIT"
 }
+
