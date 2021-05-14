@@ -1,3 +1,9 @@
+## [1.2.17](https://github.com/undefined/releases/tag/v1.2.17) (2021-05-13)
+
+**Chore**
+
+- Bump version
+
 ## [1.2.16](https://github.com/undefined/releases/tag/v1.2.16) (2021-05-13)
 
 **Chore**
