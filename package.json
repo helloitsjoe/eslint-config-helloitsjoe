@@ -4,7 +4,7 @@
   "description": "@helloitsjoe eslint config",
   "main": "index.js",
   "scripts": {
-    "release": "npx helloitsjoe/release-toolkit release"
+    "release": "release-toolkit release"
   },
   "keywords": [
     "eslint",
