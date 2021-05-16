@@ -1,3 +1,9 @@
+## [1.2.18](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v1.2.18) (2021-05-16)
+
+**Chore**
+
+- Add release-toolkit to package.json
+
 ## [1.2.17](https://github.com/undefined/releases/tag/v1.2.17) (2021-05-13)
 
 **Chore**
