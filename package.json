@@ -1,10 +1,12 @@
 {
   "name": "eslint-config-helloitsjoe",
-  "version": "1.2.18",
+  "version": "1.2.19",
   "description": "@helloitsjoe eslint config",
   "main": "index.js",
   "scripts": {
-    "release": "npx helloitsjoe/release-toolkit release"
+    "release": "release-toolkit release",
+    "verify": "release-toolkit verify",
+    "publish": "release-toolkit publish"
   },
   "keywords": [
     "eslint",
