@@ -1,3 +1,9 @@
+## [1.2.21](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v1.2.21) (2021-05-16)
+
+**Chore**
+
+- add toolkit:publish script
+
 ## [1.2.20](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v1.2.20) (2021-05-16)
 
 **Chore**
