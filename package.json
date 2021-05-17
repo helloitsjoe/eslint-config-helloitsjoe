@@ -1,12 +1,15 @@
 {
   "name": "eslint-config-helloitsjoe",
-  "version": "1.2.21",
+  "version": "1.2.22",
   "description": "@helloitsjoe eslint config",
   "main": "index.js",
   "keywords": [
     "eslint",
     "eslintconfig"
   ],
+  "scripts": {
+    "release": "npx helloitsjoe/release-toolkit#v1.0.0 release"
+  },
   "author": "Joe Boyle",
   "files": [
     "index.js",
