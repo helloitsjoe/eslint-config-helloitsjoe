@@ -3,11 +3,6 @@
   "version": "1.2.21",
   "description": "@helloitsjoe eslint config",
   "main": "index.js",
-  "scripts": {
-    "release": "release-toolkit release",
-    "verify": "release-toolkit verify",
-    "toolkit:publish": "release-toolkit publish"
-  },
   "keywords": [
     "eslint",
     "eslintconfig"
@@ -28,8 +23,5 @@
     "eslint-plugin-react": ">= 7",
     "eslint-plugin-react-hooks": ">= 1"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "release-toolkit": "git+https://github.com/helloitsjoe/release-toolkit.git"
-  }
+  "license": "MIT"
 }
