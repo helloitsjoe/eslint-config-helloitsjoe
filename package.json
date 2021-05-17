@@ -1,17 +1,15 @@
 {
   "name": "eslint-config-helloitsjoe",
-  "version": "1.2.21",
+  "version": "1.2.22",
   "description": "@helloitsjoe eslint config",
   "main": "index.js",
-  "scripts": {
-    "release": "release-toolkit release",
-    "verify": "release-toolkit verify",
-    "toolkit:publish": "release-toolkit publish"
-  },
   "keywords": [
     "eslint",
     "eslintconfig"
   ],
+  "scripts": {
+    "release": "npx helloitsjoe/release-toolkit#v1.0.0 release"
+  },
   "author": "Joe Boyle",
   "files": [
     "index.js",
@@ -28,8 +26,5 @@
     "eslint-plugin-react": ">= 7",
     "eslint-plugin-react-hooks": ">= 1"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "release-toolkit": "git+https://github.com/helloitsjoe/release-toolkit.git"
-  }
+  "license": "MIT"
 }

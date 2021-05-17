@@ -8,5 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: npm i
-      - run: npm run verify
+      - run: npx helloitsjoe/release-toolkit#v1.0.0 verify

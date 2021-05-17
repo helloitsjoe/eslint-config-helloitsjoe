@@ -1,3 +1,9 @@
+## [1.2.22](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v1.2.22) (2021-05-16)
+
+**Chore**
+
+- update scripts
+
 ## [1.2.21](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v1.2.21) (2021-05-16)
 
 **Chore**
