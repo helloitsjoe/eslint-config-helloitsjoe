@@ -25,5 +25,9 @@ module.exports = {
     'function-paren-newline': 'off',
     'arrow-parens': ['error', 'as-needed'],
     'comma-dangle': ['error', 'only-multiline'],
+    'jsx-a11y/label-has-associated-control': [
+      'error',
+      { labelAttributes: ['label'], depth: 3 },
+    ],
   },
 };

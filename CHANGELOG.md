@@ -1,3 +1,13 @@
+## [1.2.23](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v1.2.23) (2021-07-09)
+
+**Bug fix**
+
+Fix a11y label lint
+
+Label was not being recognized without
+htmlFor, see this gist for more info:
+https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/master/docs/rules/label-has-associated-control.md
+
 ## [1.2.22](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v1.2.22) (2021-05-16)
 
 **Chore**
