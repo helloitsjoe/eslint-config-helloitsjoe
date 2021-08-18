@@ -19,7 +19,7 @@
     "eslint-config-airbnb": "^18.2.1"
   },
   "peerDependencies": {
-    "babel-eslint": ">= 10",
+    "@babel/eslint-parser": ">= 7",
     "eslint": ">= 4",
     "eslint-plugin-import": ">= 2",
     "eslint-plugin-jsx-a11y": ">= 6",

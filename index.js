@@ -4,7 +4,7 @@ module.exports = {
     browser: true,
     jest: true,
   },
-  parser: 'babel-eslint',
+  parser: '@babel/eslint-parser',
   rules: {
     quotes: 'off',
     'no-console': 'off',
