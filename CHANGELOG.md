@@ -1,3 +1,9 @@
+## [2.0.0](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v2.0.0) (2021-08-18)
+
+**Breaking changes**
+
+- Replacing `babel-eslint` peerDep with `@babel/eslint-parser`
+
 ## [1.2.23](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v1.2.23) (2021-07-09)
 
 **Bug fix**
