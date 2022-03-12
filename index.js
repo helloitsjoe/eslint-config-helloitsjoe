@@ -23,7 +23,6 @@ module.exports = {
     'no-confusing-arrow': 'off',
     'operator-linebreak': 'off',
     'function-paren-newline': 'off',
-    'arrow-parens': ['error', 'as-needed'],
     'comma-dangle': ['error', 'only-multiline'],
     'jsx-a11y/label-has-associated-control': [
       'error',

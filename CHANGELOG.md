@@ -1,3 +1,9 @@
+## [2.0.1](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v2.0.1) (2022-03-12)
+
+**Bug fix**
+
+- Remove error on arrow parens, compatible with Prettier v2
+
 ## [2.0.0](https://github.com/helloitsjoe/eslint-config-helloitsjoe/releases/tag/v2.0.0) (2021-08-18)
 
 **Breaking changes**
